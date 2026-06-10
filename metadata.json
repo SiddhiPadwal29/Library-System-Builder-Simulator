@@ -1,0 +1,6 @@
+{
+  "name": "Library System Builder & Simulator",
+  "description": "Interactive code generator, console simulator, and submission document builder for Java library homework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
